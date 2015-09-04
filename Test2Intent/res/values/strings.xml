@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test2Intent</string>
+    <string name="title_activity_comm">CommActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_act_edit">ActEdit</string>
+	<string name="sample">Sample</string>
+	<string name="des">데이타를 가지고 편집 화면으로</string>
+    <string name="des1">변경 데이타를 가지고 매인 화면으로</string>
+    <string name="des2">데이타를 가지지 않고 매인 화면으로</string>
+</resources>

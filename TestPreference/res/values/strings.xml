@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestPreference</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_pswd">PswdActivity</string>
+     <string name="exampleview"></string>
+
+</resources>

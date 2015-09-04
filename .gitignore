@@ -34,3 +34,5 @@ lib/Debug/x64/v120/rain-api.exp
 src/rain-api-java/.metadata/.lock
 src/rain-api-java/.metadata/.log
 .metadata/*
+/.metadata
+/.recommenders
