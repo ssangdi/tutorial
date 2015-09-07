@@ -8,5 +8,6 @@
     <string name="title_activity_setting">SettingActivity</string>
     <string name="title_activity_pswd">PswdActivity</string>
      <string name="exampleview"></string>
+     <string name="psdview"></string>
 
 </resources>

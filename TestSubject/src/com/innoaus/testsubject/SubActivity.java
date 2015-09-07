@@ -43,25 +43,7 @@ public class SubActivity extends Activity {
 		
 		TimeThread timerThread = new TimeThread();
 		timerThread.start();
-		 
-//	    TimeThread timerThread = new TimeThread();
-//	    switch(position){
-//	    	case 0:
-//	    		 NumberThread numThread = new NumberThread();
-//	    		 numThread.start();
-//	    		 timerThread.start();
-//	    		break;
-//	    	case 1:
-//	    		 NumberThread2 numThread2 = new NumberThread2();
-//	    		 numThread2.start();
-//	    		 timerThread.start();
-//	    		break;
-//	    	case 2:
-//	    		 NumberThread3 numThread3 = new NumberThread3();
-//	    		 numThread3.start();
-//	    		 timerThread.start();
-//	    		break;
-//	    }
+		
 	}
 	
 	//현재 시간 받아오기
