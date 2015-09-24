@@ -1,0 +1,53 @@
+<resources>
+    <color name="highlight">#FF315997</color>
+    <color name="highlight_dark">#FF27477A</color>
+    <color name="highlight_inverse">#FF09DFA0</color>
+    <color name="highlight_disable">#FF6F8BB7</color>
+    <color name="highlight_light">#FF3F6BB2</color>
+    <color name="code_special">#FF00E4FF</color>
+    <color name="code_number">#FF09DFA0</color>
+    <!-- test color
+    <color name="highlight">#178321</color>
+    <color name="highlight_dark">#095E11</color>
+    <color name="highlight_inverse">#C3F1DB</color>
+    <color name="highlight_disable">#70B276</color>
+     -->
+    <color name="title_text">#ffffffff</color>
+    <color name="description">#fff</color>
+     
+    <color name="black">#ff000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="activity_back">#FFFFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_disable">#4CFFFFFF</color>
+    
+    <color name="copyright">#FFFFFFFF</color>
+    <color name="text">#fff</color>
+    <color name="text_light">#ff84b1f6</color>
+    <color name="text_dangerous">#ffff4e00</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="list_stroke">#33ffffff</color>
+    <color name="clock">#fff</color>
+    
+    <color name="ttlm_default_background_color">#EE131518</color>
+	<color name="ttlm_default_stroke_color">#FFE9ECEF</color>
+    
+    <!-- old -->
+    <color name="moa_button_press">#88e5e5e5</color>
+    <color name="moa_gray">#323231</color>
+    <color name="moa_stroke">#e5e5e5</color>
+    
+    <color name="moa_text_color">#898e91</color>
+    <color name="moa_edit_color">#51c4d4</color>
+    <color name="moa_nav_color">#fff</color>
+    <color name="moa_background_color">#f3f6f8</color>
+    <color name="moa_item_back_color">#fff</color>
+    <color name="moa_item_gray_back_color">#898e91</color>
+    <color name="moa_item_press_back_color">#51c4d4</color>
+    <color name="moa_pin_color">#424446</color>
+    
+    <color name="moa_tv_empty">#6C6C6C</color>
+    <color name="rainpass_pin">#174c98</color>
+    <color name="rainpass_pin1">#2539AA</color>
+    <color name="rainpass_pin2">#12AAA8</color>
+</resources>
